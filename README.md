@@ -37,9 +37,9 @@ $ python _Doc2Vec_visualization.py
 ### 評估分析（Model Evaluation）
 另外蒐集其他頻道影片資訊，作為測試集(Testing data)！
 ![image](https://user-images.githubusercontent.com/111637364/208354955-6d6f5eed-c068-4b10-84a4-4c1d7bfe15db.png)
-
-![image](https://user-images.githubusercontent.com/111637364/208354748-867413a9-9fcc-4d70-94a4-e39bbac6d023.png)
-
+![image](https://user-images.githubusercontent.com/111637364/208355454-574b48e6-e176-40d5-8c2d-93fdc4d62c6a.png)
+![image](https://user-images.githubusercontent.com/111637364/208355470-69b6782e-1125-4176-b280-6d290ec41f60.png)
+![image](https://user-images.githubusercontent.com/111637364/208355480-b6748649-8299-4e76-be31-c9d68d6defb7.png)
 
 ### 模型預測
 ```
@@ -47,4 +47,5 @@ $ python _Doc2Vec_visualization.py
 $ python Predict_Crawler.ipynb
 ```
 ![image](https://user-images.githubusercontent.com/111637364/187491916-8c2fb094-fa9c-4e23-99a9-6980a4db11b1.png)
+
 
