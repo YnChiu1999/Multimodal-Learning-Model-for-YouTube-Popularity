@@ -8,6 +8,12 @@ Machine Learning: Predicting Views from YouTube Video Titles Using Multimodal-Le
 
 
 ## 使用方式
+### YouTube影片資料蒐集
+```
+# 使用 Youtube_Crawler.py 檔案，自己抓YouTube影片資料
+$ python Youtube_Crawler.py 
+```
+
 ### 模型架構（圖對圖、字對字）
 運用Multimodal-Learning-Model概念，利用由EfficientNetB0構成的Visual model處理圖像資料；利用由Bi- LSTM構成的Social Model處理文字資料！
 最後再透過Merge Layer融合Visual model, Social Model輸出，構成最終的Multimodal Model！
