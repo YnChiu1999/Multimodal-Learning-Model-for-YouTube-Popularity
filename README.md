@@ -12,6 +12,8 @@ Machine Learning: Predicting Views from YouTube Video Titles Using Multimodal-Le
 運用Multimodal-Learning-Model概念，利用由EfficientNetB0構成的Visual model處理圖像資料；利用由Bi- LSTM構成的Social Model處理文字資料！
 最後再透過Merge Layer融合Visual model, Social Model輸出，構成最終的Multimodal Model！
 ![image](https://user-images.githubusercontent.com/111637364/208354494-c602e24a-8fd5-4125-b103-08cfb1096822.png)
+
+Multimodal-Learning-Model概念 & YouTube爬蟲概念圖
 ![image](https://user-images.githubusercontent.com/111637364/208354700-9e42a03f-a7d8-47f1-9603-96059a2254cb.png)
 
 ### 自然語言處理(斷詞+詞向量)
