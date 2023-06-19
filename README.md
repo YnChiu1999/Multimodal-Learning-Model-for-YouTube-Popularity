@@ -1,7 +1,7 @@
 # Multimodal-Learning-Model-for-YouTube-Popularity
 Machine Learning: Predicting Views from YouTube Video Titles Using Multimodal-Learning-Model
 
-(Improved from the Bi-LSTM model, this was a homework assignment. I spent a week working on it, and have posted it here for those who might be interested to reference.)
+(Improved from the Bi-LSTM model, this was a final project made for a class. I spent a week working on it, and have posted it here for those who might be interested to reference.)
 
 ## Expected Model Applications
 It's well known that one of the most significant factors determining viewer traffic is the attractiveness of a video's thumbnail and title. This model aims to provide YouTubers with a way to test whether their video titles are catchy and competitive enough before the video's release. It prevents the disappointment of a video produced with great effort having low views due to an unattractive title or thumbnail. YouTubers can prepare several video titles in advance and use the model to predict which title will be the most eye-catching, thus expected to have the highest click rate. This ensures that their video titles are competitive enough!!!
